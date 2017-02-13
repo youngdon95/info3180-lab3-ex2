@@ -73,8 +73,8 @@ Subject: {}
 
                              msg)
 
-    username = 'odainef@gmail.com'
-    password = 'mwls nykm wwek pnhy'   
+    username = ''
+    password = ''   
     server = smtplib.SMTP('smtp.gmail.com:587')
     server.starttls()
     server.login(username, password)
