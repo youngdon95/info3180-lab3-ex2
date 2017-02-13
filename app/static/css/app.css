@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+}
+.box{
+    width:500px;
+}
+#box1{
+    width: 600px;
+    height: 30%;
+}
+#Mess{
+    color:yellow;
+    font-weight: bold;
+    font-style: italic;
+    background-color:purple; 
+    width:400px;
+}
